@@ -1,6 +1,7 @@
+.idea/
 /venv
 chlorella_data.csv
 data_analysis.py
-Firure_1.png
+Figure_1.png
 predictCode.py
 trainingCode.py
